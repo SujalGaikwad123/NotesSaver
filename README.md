@@ -32,3 +32,29 @@ A modern and responsive web application for creating, storing, and managing note
 
 ## 📂 Project Structure
 
+NotesSaver/
+├── public/
+├── src/
+│ ├── components/
+│ ├── redux/
+│ ├── utils/
+│ ├── App.jsx
+│ └── main.jsx
+├── index.html
+├── package.json
+└── vite.config.js
+
+
+---
+
+## 🧪 Build for Production
+
+```bash
+npm run build
+
+👨‍💻 Author
+
+Sujal Gaikwad
+📧 143sujalgaikwad@gmail.com
+
+🔗 https://github.com/SujalGaikwad123
